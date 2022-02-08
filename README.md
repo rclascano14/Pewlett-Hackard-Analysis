@@ -33,11 +33,13 @@ With this weeks module, I was asked to delve into the porgramming language of SQ
 
 ## Summary:
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 As my fourth result shows, there will be 90,398 people retiring soon in the "silver tsunami". Therefore, in the end, there will need to be 90,398 roles fulfilled by the end of the "silver tsunami". I created a more in depth breakdown with the following query, which allows me to see the count of the 90,398 amongst the various departments.
 
 <img width="614" alt="Summary 1" src="https://user-images.githubusercontent.com/95828604/152892825-dc8afaed-d2ff-4b0a-8da4-93ce09b07860.png">
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 No there are not enough qualified and retirement ready employees to replace the current mentors, should they need to. 
 
 <img width="654" alt="Summary 2" src="https://user-images.githubusercontent.com/95828604/152893405-d78982fd-f66c-4c02-8e90-005d0c056be1.png">
